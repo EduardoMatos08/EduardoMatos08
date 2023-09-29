@@ -1,4 +1,5 @@
-### Oi, para todos! ![](https://komarev.com/ghpvc/?username=EduardoMatos08)
+### Oi, para todos! 
+![](https://komarev.com/ghpvc/?username=EduardoMatos08)
 
 Meu nome é Eduardo Matos! Sou um programador Front-End, atualmente uso:
 
