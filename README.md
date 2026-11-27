@@ -54,9 +54,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-
-### 📊 Estatísticas do GitHub
-
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=EduardoMatos08&show_icons=true&theme=radical" />
   
